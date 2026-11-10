@@ -1,0 +1,2 @@
+# gierka
+gierka w python
